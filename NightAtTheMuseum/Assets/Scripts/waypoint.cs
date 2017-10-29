@@ -51,4 +51,15 @@ public class waypoint : MonoBehaviour {
             }
         }
     }
+
+    public void HideInformationPanels()
+    {
+        if (informationPanels.Length > 0)
+        {
+            foreach (GameObject informationPanel in informationPanels)
+            {
+                informationPanel.SetActive(false);
+            }
+        }
+    }
 }

@@ -141,6 +141,7 @@ PlayerSettings:
   targetPixelDensity: 0
   resolutionScalingMode: 0
   applicationIdentifier:
+    Android: com.AarshadDevani.NightAtTheMuseum
     Standalone: com.AarshadDevani.VRND5_NightAtMuseum
   buildNumber: {}
   AndroidBundleVersionCode: 1

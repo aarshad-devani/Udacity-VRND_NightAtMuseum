@@ -7,11 +7,12 @@ using UnityEngine.Video;
 public class videoPlayerScript : MonoBehaviour {
 
     //Raw Image to Show Video Images [Assign from the Editor]
-    public RawImage image;
+    //public Texture image2d;
+    //private RawImage image;
     //Video To Play [Assign from the Editor]
     public VideoClip videoToPlay;
 
-    private UnityEngine.Video.VideoPlayer videoPlayer;
+    private VideoPlayer videoPlayer;
     private VideoSource videoSource;
 
     private bool _videoPrepared = false;
@@ -24,6 +25,7 @@ public class videoPlayerScript : MonoBehaviour {
     {
         Application.runInBackground = true;
         StartCoroutine(playVideo());
+        //image.texture = image2d;
     }
 
     IEnumerator playVideo()
@@ -62,7 +64,7 @@ public class videoPlayerScript : MonoBehaviour {
         Debug.Log("Done Preparing Video");
 
         //Assign the Texture from Video to RawImage to be displayed
-        image.texture = videoPlayer.texture;
+        //image.texture = videoPlayer.texture;
 
 
 

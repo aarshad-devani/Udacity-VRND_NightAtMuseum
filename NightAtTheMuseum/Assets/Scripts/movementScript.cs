@@ -31,6 +31,7 @@ public class movementScript : MonoBehaviour {
         if (previousWaypoint)
         {
             toggleCollider(previousWaypoint);
+            previousWaypoint.GetComponent<waypoint>().HideInformationPanels();
 
         }
         //currentWaypoint = currentObject;
