@@ -5,11 +5,11 @@ The project uses various models in order to display stunning VR scene made using
 
 ## Project Screenshots
 
-![Picture](https://github.com/aarshad786/Udacity-VRND_NightAtMuseum/tree/master/NightAtTheMuseum/ScreenShots/1.png)
-![Picture](https://github.com/aarshad786/Udacity-VRND_NightAtMuseum/tree/master/NightAtTheMuseum/ScreenShots/2.png)
-![Picture](https://github.com/aarshad786/Udacity-VRND_NightAtMuseum/tree/master/NightAtTheMuseum/ScreenShots/3.png)
-![Picture](https://github.com/aarshad786/Udacity-VRND_NightAtMuseum/tree/master/NightAtTheMuseum/ScreenShots/4.png)
-![Picture](https://github.com/aarshad786/Udacity-VRND_NightAtMuseum/tree/master/NightAtTheMuseum/ScreenShots/5.png)
+![Picture](https://github.com/aarshad786/Udacity-VRND_NightAtMuseum/blob/master/NightAtTheMuseum/ScreenShots/1.png)
+![Picture](https://github.com/aarshad786/Udacity-VRND_NightAtMuseum/blob/master/NightAtTheMuseum/ScreenShots/2.png)
+![Picture](https://github.com/aarshad786/Udacity-VRND_NightAtMuseum/blob/master/NightAtTheMuseum/ScreenShots/3.png)
+![Picture](https://github.com/aarshad786/Udacity-VRND_NightAtMuseum/blob/master/NightAtTheMuseum/ScreenShots/4.png)
+![Picture](https://github.com/aarshad786/Udacity-VRND_NightAtMuseum/blob/master/NightAtTheMuseum/ScreenShots/5.png)
 
 
 ## Project Requirements
